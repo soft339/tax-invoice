@@ -43,7 +43,7 @@
 
 ## 사용설명서
 
-[📄 사용설명서 보기](docs/사용설명서.md)
+[📄 사용설명서 보기][(docs/사용설명서.md)](https://github.com/soft339/tax-invoice/blob/main/%EC%82%AC%EC%9A%A9%EC%84%A4%EB%AA%85%EC%84%9C.md)
 
 ---
 
