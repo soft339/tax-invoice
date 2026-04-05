@@ -8,9 +8,7 @@
 
 **최신 버전 다운로드**
 
-👉 [tax-invoice-Setup-1.0.0.exe](https://github.com/soft339/tax-invoice/releases/latest/download/tax-invoice-Setup-1.0.0.exe)
-
-또는 [전체 릴리즈 목록](https://github.com/soft339/tax-invoice/releases/latest)에서 다운로드
+👉 [전체 릴리즈 목록](https://github.com/soft339/tax-invoice/releases/latest)에서 다운로드
 
 ---
 
