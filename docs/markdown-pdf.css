@@ -1,0 +1,32 @@
+body {
+  font-family: "맑은 고딕", "Malgun Gothic", "나눔고딕", "NanumGothic", sans-serif;
+  font-size: 13px;
+  line-height: 1.8;
+}
+
+h1, h2, h3, h4 {
+  font-family: "맑은 고딕", "Malgun Gothic", sans-serif;
+}
+
+code, pre {
+  font-family: "D2Coding", "Consolas", monospace;
+}
+
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+th, td {
+  border: 1px solid #ddd;
+  padding: 6px 10px;
+}
+
+th {
+  background: #f0f4f8;
+}
+
+img {
+  max-width: 100%;
+}
+
